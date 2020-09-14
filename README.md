@@ -1,4 +1,4 @@
-# ToDo List App
+# IN-TIME App
 
 A note taking app, using the Android Architecture Component libraries (`Room`, `ViewModel`, `LiveData`), Fragments, a RecyclerView and Java. The data will be stored in an SQLite database and supports `CRUD` operations.Together, this whole structure constitues an `MVVM (Model-View-ViewModel)` architecture, which follows the single responsibility and separation of concerns principles.
 
